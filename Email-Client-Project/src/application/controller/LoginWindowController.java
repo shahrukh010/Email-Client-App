@@ -85,6 +85,6 @@ public class LoginWindowController extends BaseController implements Initializab
 	public void initialize(URL arg0, ResourceBundle arg1) {
 
 		emailAddressField.setText("hector01k01@gmail.com");
-		passwordField.setText("------");
+		passwordField.setText("kxjhlorgmbiwplgb");
 	}
 }
